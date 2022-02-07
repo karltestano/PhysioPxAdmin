@@ -1,2 +1,2 @@
 # PXAdmin
-Administer your physiotherpy practice, especially in Germany
+Administer your physiotherapy practice, especially in Germany
