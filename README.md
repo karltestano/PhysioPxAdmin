@@ -1,7 +1,9 @@
-# PXAdmin
+# PhysioPxAdmin
 Administer your physiotherapy practice, especially in Germany
 
-This program is only useful, if you are a physiotherapist in germany. Therefore the whole descript will be in german, please excuse. If you have similar monsters in your public administration like we in germany (Spitzenverband der gesetzlichen Krankenkassen, Gemeinsamer Bundesausschuss etc.), please leave a note an i will translate all description into english.
+This program is only useful, if you are a physiotherapist in germany. Therefore the whole descript will be in german, please excuse. If you have similar monsters in your public administration like we in germany (Spitzenverband der gesetzlichen Krankenkassen, Gemeinsamer Bundesausschuss etc.), please leave a note an i will translate all description into english. But i am afraid, that in know anything over the administrations in other european countrys nor in the rest of the world, except of that they are sometimes disturbing ...
 
-# PXadmin, Praxisverwaltung für Physiotherapiepraxen
-
+# PhysioPxadmin, Praxisverwaltung für Physiotherapiepraxen (Einleitung)
+In Deutschland hat alles seine Ordnung, egal, worum es sich handelt. So unterliegt auch die selbstständige Tätigleit von Physiotherapeuten (im Folgenden mit "Physios" abgekürzt) den strengen Regeln der BRanche der Heil-/Hilfsmittelerbringer. Wenn man hier die Arbeit durch den Einsatz von IT vereinfachen möchte, müssen alle diese Vorschriften eingehalten werden. Alleine die Prüfung von Kassenrezepten, die den Physios per Gerichtsurteil aufgebürdet wurde und noch immer nicht angemessen vergütet wird, dauert ca. 10 bis 15. Minuten und muss streng nach den Regelungen des Heilmittekataloges des "Gemeinsamen Bundesausschusses" vorgenommen werden. Dies alles und noch viel mehr sind die Rahmenbedingungen, unter denen dieses Programmsystem entstand. Es wäre im Übrigen ohne die viele Arbeit der "wahren Helden der Programmierung", die für dieses System die ganzen Bausteine geliefert haben, nicht möglich gewesen.
+# Was kann das Programmsystem immer noch nicht?
+Zur hohen Schule gehört in Deutschland die elektronische Gesundheitskarte. Leider ist es mir bis heute nicht gelungen, die KArten der AOK zu lesen,
