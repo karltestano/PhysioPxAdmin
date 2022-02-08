@@ -25,11 +25,14 @@ Das Programmsystem entstand mit Hilfe einer laufenden Praxis für Physiotherapie
 - Philosopie: "Der Browser ist die Schnittstelle", alle Funktionen über Browser gesteuert (winzige Ausnahme: eGK lesen, aber die gelesenen Daten sind sofort im Browser abrufbar)
 - Besonderheiten
   - Elektronische Patientenakte, Ausgabe der Daten auf einem Tablet direkt beim Behandler
-    - Erstellung von Behandlungsverträgen, Einscannen und Ablage der vom Patientenunterschriebenen Fassung
+    - Erstellung von Behandlungsverträgen, Einscannen und Ablage der vom Patienten unterschriebenen Fassung
+    - Verwaltung von .jpg und .odt Files pro Rezept und/oder Patient
     - Einscannen des Rezeptes 
+    - Fotografieren von Rezepten und sonstigen Unterlagen auch mit Smartphone/Tablet möglich
   - Rechnung kann auch per Mail gesendet werden (bei nicht gesetzlich Versicherten)
   - Behandlungsverträge per E-Mail zustellbar
   - Alle relvanten Patientenunterlagen (Behandlungsvertrag, Rechnung, Zuzahlungsquittung usw.) werden über Browser erstellt.
+  - Hochladen von Rezepten eines bekannten Web-Servers, falls die Praxis ein Interangebot hat
 # Abhängigkeiten
 Natürlich lässt sich so ein System nur erstellen, weil viele andere schon Module und Bausteine kreiert haben, die ich benutzen konnte:
 - ADOdb Library for PHP
