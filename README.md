@@ -30,5 +30,9 @@ Das Programmsystem entstand mit Hilfe einer laufenden Praxis für Physiotherapie
   - Rechnung kann auch per Mail gesendet werden (bei nicht gesetzlich Versicherten)
   - Behandlungsverträge per E-Mail zustellbar
   - Alle relvanten Patientenunterlagen (Behandlungsvertrag, Rechnung, Zuzahlungsquittung usw.) werden über Browser erstellt.
-
+# Abhängigkeiten
+Natürlich lässt sich so ein System nur erstellen, weil viele andere schon Module und Bausteine kreiert haben, die ich benutzen konnte:
+- ADOdb Library for PHP
+- PHPMailer
+- PDF.js
   
