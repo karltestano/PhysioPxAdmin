@@ -14,8 +14,21 @@ In Deutschland hat alles seine Ordnung, egal, worum es sich handelt. So unterlie
 Das Programmsystem entstand mit Hilfe einer laufenden Praxis für Physiotherapie und hat sich natürlich an deren Bedürfnissen orientiert, es ist also "Nutzergetrieben" entwickelt worden. Folgende Aufgaben werden unterstützt:
 - Allgemein
   - Verwaltung von Patientendaten (Einlesen der eGK bei gesetzlich Versicherten. E-Mail an den Patienten)
-  - Erstellung von Behandlungsverträgen
-  - Verwalten der Rezeptdaten
-  - Verwalten von Daten der Krankenkassen auf der Basis der Kostenträgerdateien des GKV-Spitzenverbandes (siehe https://www.gkv-datenaustausch.de/leistungserbringer/sonstige_leistungserbringer/sonstige_leistungserbringer.jsp)
+  - Verwalten der Rezeptdaten 
+  - Verwalten von Daten der Krankenkassen auf der Basis der Kostenträgerdateien des GKV-Spitzenverbandes (siehe https://www.gkv-datenaustausch.de)
   - Verwaltung der bundeseinheitlichen (Behandlungs-) Positionen nach Maßgabe des GKV-Spitzenverbandes
   - Personalverwaltung (Mitarbeiter)
+   - Abrechnung auf Provisionsbasis
+   - Umsatzergebnisse pro Mitarbeiter/für die gesamte Praxis
+  - Ärzteveraltung
+  - Buchhaltung mit Kontenplan
+- Philosopie: "Der Browser ist die Schnittstelle", alle Funktionen über Browser gesteuert (winzige Ausnahme: eGK lesen, aber die gelesenen Daten sind sofort im Browser abrufbar)
+- Besonderheiten
+  - Elektronische Patientenakte, Ausgabe der Daten auf einem Tablet direkt beim Behandler
+    - Erstellung von Behandlungsverträgen, Einscannen und Ablage der vom Patientenunterschriebenen Fassung
+    - Einscannen des Rezeptes 
+  - Rechnung kann auch per Mail gesendet werden (bei nicht gesetzlich Versicherten)
+  - Behandlungsverträge per E-Mail zustellbar
+  - Alle relvanten Patientenunterlagen (Behandlungsvertrag, Rechnung, Zuzahlungsquittung usw.) werden über Browser erstellt.
+
+  
