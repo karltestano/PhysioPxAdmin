@@ -35,7 +35,32 @@ Das Programmsystem entstand mit Hilfe einer laufenden Praxis für Physiotherapie
   - Hochladen von Rezepten eines bekannten Web-Servers, falls die Praxis ein Interangebot hat
 # Abhängigkeiten
 Natürlich lässt sich so ein System nur erstellen, weil viele andere schon Module und Bausteine kreiert haben, die ich benutzen konnte:
-- ADOdb Library for PHP
-- PHPMailer
-- PDF.js
-  
+- Grundsystem (LAMP)
+  - GNU/Linux (Debian, Ubuntu, Kubuntu ...) 
+  - Apache2
+  - PHP
+  - MariaDB
+
+- Datenbank Interface
+ - ADOdb/ADOdb Library for PHP
+
+- PHP Erweiterungen/Module
+  - PHPMailer
+  - jbs-newmedia/debuglib
+  - umidjons/pdf-thumbnail-php.md
+  - 
+
+- Javascript Erweiterungen/Module
+  - mozilla/pdf.js
+  - jquery/jquery
+  - dropzone/dropzone
+
+- CSS/HTML/Javascript Frameworks
+  - twbs/bootstrap
+
+- Chip Card Erweiterungen/Module
+  - aqbanking/libchipcard
+  - aqbanking/gwenhywfar
+  - LudovicRousseau/PCSC
+
+
