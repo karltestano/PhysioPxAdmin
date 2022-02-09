@@ -47,8 +47,8 @@ Natürlich lässt sich so ein System nur erstellen, weil viele andere schon Modu
 - PHP Erweiterungen/Module
   - PHPMailer
   - jbs-newmedia/debuglib
-  - umidjons/pdf-thumbnail-php.md
-  - 
+  - umidjons/pdf-thumbnail-php.md (https://gist.github.com/umidjons/11037635)
+  - Darkflib/php-qrcode 
 
 - Javascript Erweiterungen/Module
   - mozilla/pdf.js
