@@ -2,6 +2,7 @@
 Administer your physiotherapy practice, especially in Germany
 
 This program is only useful, if you are a physiotherapist in germany. Therefore the whole descript will be in german, please excuse. If you have similar monsters in your public administration like we in germany (Spitzenverband der gesetzlichen Krankenkassen, Gemeinsamer Bundesausschuss etc.), please leave a note an i will translate all description into english. But i am afraid, that in know anything over the administrations in other european countrys nor in the rest of the world, except of that they are sometimes disturbing ...
+The main development path was this philosophy: "The browser is the interface", all functions controlled via browser.
 Please see the wiki (https://github.com/karltestano/PhysioPxAdmin/wiki) for more information. And excuse me, the describtion in the wiki will be in german, due to the limited possibility of using the program in germany (i think). If you need support in english, leave a note ..
 # Dependencies
 Of course, such a system can only be created because many other developers have already created modules and building programs that I could use:
