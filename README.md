@@ -49,11 +49,16 @@ Natürlich lässt sich so ein System nur erstellen, weil viele andere schon Modu
   - jbs-newmedia/debuglib
   - umidjons/pdf-thumbnail-php.md (https://gist.github.com/umidjons/11037635)
   - Darkflib/php-qrcode 
+  - mikehaertl/phpwkhtmltopdf
+  - Auth.php Julio César Carrascal Urquijo 
 
 - Javascript Erweiterungen/Module
   - mozilla/pdf.js
   - jquery/jquery
   - dropzone/dropzone
+  - jquery Tiny MCE Plugin (/tinymce/tinymce)
+  - Simple Calendar Widget by Anthony Garrett (Code no more available)
+  - Jquery Tools (http://jquerytools.org/)
 
 - CSS/HTML/Javascript Frameworks
   - twbs/bootstrap
