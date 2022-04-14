@@ -1,5 +1,5 @@
 # PhysioPxAdmin
-Administer your physiotherapy practice, especially in Germany
+Administer all office taks in your physiotherapy practice, especially in Germany
 
 This program is only useful, if you are a physiotherapist in germany. Therefore the whole descript will be in german, please excuse. If you have similar monsters in your public administration like we in germany (Spitzenverband der gesetzlichen Krankenkassen, Gemeinsamer Bundesausschuss etc.), please leave a note an i will translate all description into english. But i am afraid, that in know anything over the administrations in other european countrys nor in the rest of the world, except of that they are sometimes disturbing ...
 The main development path was this philosophy: "The browser is the interface", all functions controlled via browser. The inspirering came from club member administration version 1 (see https://sourceforge.net/projects/clubdata/), which had all modules to display tables in a userfriendly way and had the basic for user administration of a living web-site. It also uses frames in an way to get a clear partition of the view of a web-site, left-hand menu, top and bottom areas and a work area. Today all this is implemented in HTML5 (tags are: main, article, aside ...) to avoid frames.
