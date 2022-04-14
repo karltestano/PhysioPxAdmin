@@ -27,7 +27,7 @@ else {
         $startpage = "PraxisMain/PraxisMain_Main.php";
 }
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!DOCTYPE HTML>
 <html>
   <head>
         <meta http-equiv="Content-Type" 
