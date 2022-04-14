@@ -11,9 +11,11 @@ Of course, such a system can only be created because many other developers have 
   - Apache2
   - PHP
   - MariaDB
+  - Samba (for direct data connection to smartphone/tablet)
 
+On Github
 - Database Interface
- - ADOdb/ADOdb Library for PHP
+- ADOdb/ADOdb Library for PHP
 
 - PHP Modules
   - PHPMailer
@@ -34,8 +36,14 @@ Of course, such a system can only be created because many other developers have 
 - CSS/HTML/Javascript Frameworks
   - twbs/bootstrap
 
-- Chip Card Modules
+- Chip Card Modules for reading german electronic health card (eGK)
   - aqbanking/libchipcard
   - aqbanking/gwenhywfar
   - LudovicRousseau/PCSC
- 
+
+- ZBar/ZBar (which i would prefere, but could not be used, because the PDF417 code
+  could not be read by ZBar, the libraries are not enabled. Reason: the code is not complet??)
+  
+- instead - Using Apps to scann PDF417 with smartphone/table and transfer it to the LAMP-server
+  scanning: https://play.google.com/store/apps/details?id=com.camvision.qrcode.barcode.reader
+  samba-client: https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer
