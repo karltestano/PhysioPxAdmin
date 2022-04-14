@@ -27,7 +27,7 @@ else {
         $startpage = "PraxisMain/PraxisMain_Main.php";
 }
 ?>
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <head>
         <meta http-equiv="Content-Type" 
