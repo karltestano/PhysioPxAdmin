@@ -5,7 +5,7 @@
 
 */
 require_once("include/function.php");
-require_once("include/debuglib.php");
+// require_once("include/debuglib.php");
 $db = openDb();
 $startpage = getConfigEntry($db, "Startpage");
 if ( $startpage == "")
