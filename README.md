@@ -45,5 +45,5 @@ On Github
   could not be read by ZBar, the libraries are not enabled. Reason: the code is not complet??)
   
 - instead - Using Apps to scann PDF417 with smartphone/table and transfer it to the LAMP-server
-  scanning: https://play.google.com/store/apps/details?id=com.camvision.qrcode.barcode.reader
-  samba-client: https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer
+  - scanning: https://play.google.com/store/apps/details?id=com.camvision.qrcode.barcode.reader
+  - samba-client: https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer
